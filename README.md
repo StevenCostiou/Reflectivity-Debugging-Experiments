@@ -15,4 +15,4 @@ Known bugs:
 - Sometimes putting multiple tracepoints within the same method disables all tracepoints installed in this method.
 
 
-[[https://github.com/StevenCostiou/Reflectivity-Debugging-Experiments/blob/master/tracepoint-ex-2.png]]
+![alt text](https://github.com/StevenCostiou/Reflectivity-Debugging-Experiments/blob/master/tracepoint-ex-2.png)
