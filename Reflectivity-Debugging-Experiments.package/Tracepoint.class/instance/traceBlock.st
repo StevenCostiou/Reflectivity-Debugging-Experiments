@@ -1,0 +1,3 @@
+accessing
+traceBlock
+	^ traceBlock

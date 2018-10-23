@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "StevenCostiou 10/23/2018 16:36",
+	"super" : "Object",
+	"category" : "Reflectivity-Debugging-Experiments-Breakpoint-Tracepoint",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"traceBlock"
+	],
+	"name" : "Tracepoint",
+	"type" : "normal"
+}

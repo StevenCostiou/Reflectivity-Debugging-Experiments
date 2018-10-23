@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Reflectivity-Debugging-Experiments-Breakpoint-HitCount",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"hitCount"
+	],
+	"name" : "HitCountTest",
+	"type" : "normal"
+}

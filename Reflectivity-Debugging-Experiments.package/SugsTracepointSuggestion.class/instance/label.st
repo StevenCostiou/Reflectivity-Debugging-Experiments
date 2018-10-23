@@ -1,0 +1,3 @@
+breakpoints
+label
+	^'Tracepoint' translated

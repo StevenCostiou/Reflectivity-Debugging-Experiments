@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "BreakpointIconStyler",
+	"category" : "Reflectivity-Debugging-Experiments-Breakpoint-Tracepoint",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TracepointIconStyler",
+	"type" : "normal"
+}

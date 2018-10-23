@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SugsBreakpointSuggestion",
+	"category" : "Reflectivity-Debugging-Experiments-Breakpoint-Tracepoint",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SugsTracepointSuggestion",
+	"type" : "normal"
+}

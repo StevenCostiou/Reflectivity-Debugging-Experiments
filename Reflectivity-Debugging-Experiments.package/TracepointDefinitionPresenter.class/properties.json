@@ -1,0 +1,26 @@
+{
+	"commentStamp" : "",
+	"super" : "ComposablePresenter",
+	"category" : "Reflectivity-Debugging-Experiments-Breakpoint-Tracepoint",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"node",
+		"selectedReifications",
+		"selectedControl",
+		"nodePresenter",
+		"reificationPresenter",
+		"controlPresenter",
+		"tracePresenter",
+		"buttonsPresenter",
+		"nodeLabel",
+		"reificationLabel",
+		"controlLabel",
+		"traceLabel",
+		"acceptButton",
+		"cancelButton"
+	],
+	"name" : "TracepointDefinitionPresenter",
+	"type" : "normal"
+}

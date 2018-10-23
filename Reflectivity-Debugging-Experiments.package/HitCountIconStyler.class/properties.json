@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "BreakpointIconStyler",
+	"category" : "Reflectivity-Debugging-Experiments-Breakpoint-HitCount",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HitCountIconStyler",
+	"type" : "normal"
+}
