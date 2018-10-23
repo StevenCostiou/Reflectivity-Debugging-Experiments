@@ -10,4 +10,6 @@ Tracepoints are specific kind of breakpoints: instead of halting the execution, 
 
 Sometimes, some Reflectivity reifications are not working, depending on the node and the context. This is currently under investigation.
 
-Known bug: When put on temporary variables, an #isGlobal DNU is raised in the Reflectivity classes. This bug is solved but not integrated yet.
+Known bugs: 
+- When put on temporary variables, an #isGlobal DNU is raised in the Reflectivity classes. This bug is solved but not integrated yet.
+- Sometimes putting multiple tracepoints within the same method disables all tracepoints installed in this method.
