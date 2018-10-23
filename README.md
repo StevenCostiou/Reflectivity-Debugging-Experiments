@@ -14,5 +14,7 @@ Known bugs:
 - When put on temporary variables, an #isGlobal DNU is raised in the Reflectivity classes. This bug is solved but not integrated yet.
 - Sometimes putting multiple tracepoints within the same method disables all tracepoints installed in this method.
 
-
+## Tracepoint definition from source code menu
+![alt text](https://github.com/StevenCostiou/Reflectivity-Debugging-Experiments/blob/master/tracepoint-ex.png)
+## Tracepoint result after execution
 ![alt text](https://github.com/StevenCostiou/Reflectivity-Debugging-Experiments/blob/master/tracepoint-ex-2.png)
