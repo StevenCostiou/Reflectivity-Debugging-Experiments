@@ -13,3 +13,6 @@ Sometimes, some Reflectivity reifications are not working, depending on the node
 Known bugs: 
 - When put on temporary variables, an #isGlobal DNU is raised in the Reflectivity classes. This bug is solved but not integrated yet.
 - Sometimes putting multiple tracepoints within the same method disables all tracepoints installed in this method.
+
+
+[[https://github.com/StevenCostiou/Reflectivity-Debugging-Experiments/blob/master/tracepoint-ex-2.png]]
